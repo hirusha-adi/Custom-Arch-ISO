@@ -100,6 +100,7 @@ wvdial
 xfsprogs
 xl2tpd
 zsh
+fish
 
 #Arch Linux GUI KDE Plasma Core
 xorg
@@ -165,13 +166,9 @@ nvidia
 nvidia-utils
 nvidia-settings
 
-google-chrome
-brave-bin
-zoom
+pavucontrol
+
 teams
 discord
-bitwarden
-openoffice
-spotify
-timeshift
-notion-app
+http-parser
+libappindicator-gtk3
